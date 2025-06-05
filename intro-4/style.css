@@ -1,0 +1,29 @@
+div {
+            background: #2d2e2d;
+            color: #f5f5f5;
+        }
+        
+        .block1 {
+            color: #f5ff66;
+        }
+
+        .block2 {
+            color: #55ff4f;
+        }
+
+        .block3 {
+            background: #96ff35;
+            width: 100px;
+            height: 100px;
+        }
+
+        .block4 {
+            background: #d6ff43;
+            color: #000000;
+            width: 300px;
+        }
+
+        .block5 {
+            background: #ffcf4c;
+            color: #3ed2f7;
+        }
