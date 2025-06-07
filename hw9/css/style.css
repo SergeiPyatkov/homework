@@ -1,0 +1,28 @@
+body {
+    font-family: "open_sans", "times_new_roman", serif;
+    font-weight: 300;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    border: 1px solid #000000;
+    background: #fbf6ff;
+    border-radius: 30px 0px 0px 30px;
+    width: 1200px;
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.blocks {
+    display: inline-block;
+    width: 250px;
+    background: #b8a181;
+    
+    border-radius: 30px;
+    padding: 20px;
+    margin: 7px;
+    box-shadow: inset 0px 0px 4px 1px #000000;
+}
