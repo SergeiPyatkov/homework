@@ -1,0 +1,32 @@
+main {
+    font-family: "open_sans", "times_new_roman", serif;
+    font-weight: 300;
+}
+
+.text {
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.ntext {
+    text-decoration: line-through;
+}
+
+.centre {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.words {
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    word-spacing: 30px;
+    text-shadow: 1px 1px 1px #ad079775;
+}
+
+.letters {
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
