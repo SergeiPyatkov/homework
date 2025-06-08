@@ -18,7 +18,7 @@ body {
 
 .blocks {
     display: inline-block;
-    width: 250px;
+    max-width: 250px;
     background: #b8a181;
     
     border-radius: 30px;
