@@ -1,0 +1,30 @@
+body {
+    background: #19191a;
+    color: #ffffff;
+    font-size: 20px;
+    /* В уроке данного задания явно прописан Font-size выше 16-ти, в противном случаи я чего-то не понимаю.. */
+    font-weight: 400;
+}
+
+.main__line {
+    background: #fff;
+    border-radius: 15px;
+    min-height: 100px;
+    
+    position: fixed;
+    left: 50%;
+    bottom: 100px;
+    right: 50px;
+}
+
+.main__circle {
+    background: #f56666;
+    border-radius: 50%;
+    
+    max-width: 100px;
+    min-height: 100px;
+
+    position: relative;
+    bottom: 50px;
+    left: 15%;
+}
